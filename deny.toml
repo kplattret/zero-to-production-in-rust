@@ -1,0 +1,5 @@
+[advisories]
+ignore = [
+  # TODO: keep an eye on https://rustsec.org/advisories/RUSTSEC-2024-0320.html
+  "RUSTSEC-2024-0320",
+]
